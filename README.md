@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [WorkPulse](https://github.com/Chirag1724/WorkPulse.git)
 
-- 🌱 I’m currently learning **DSA**
+- 🌱 I’m currently learning **Web Dev**
 
 - 📫 How to reach me **chiragdwivediji@gmail.com**
 
