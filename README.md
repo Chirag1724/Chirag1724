@@ -14,7 +14,7 @@
 
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">A little more about me...  
 
-- 🔭 I'm currently working on [LinkUp](https://github.com/Chirag1724/LinkUp.git)
+- 🔭 I'm currently working on [Personal Project]()
 
 - 🌱 I'm currently learning **Web Dev**
 
