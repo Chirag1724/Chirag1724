@@ -6,8 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chirag1724&label=Profile%20views&color=0e75b6&style=flat" alt="chirag1724" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chirag1724" alt="chirag1724" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/dwivedi_ch58529" target="blank"><img src="https://img.shields.io/twitter/follow/dwivedi_ch58529?logo=twitter&style=for-the-badge" alt="dwivedi_ch58529" /></a> </p>
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
