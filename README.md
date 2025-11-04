@@ -12,7 +12,7 @@
 
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">A little more about me...  
 
-- 🔭 I'm currently working on [Personal Project]()
+- 🔭 I'm currently working on [E-Cell-Official](https://github.com/Chirag1724/E-Cell-Official.git)
 
 - 🌱 I'm currently learning **Web Dev**
 
