@@ -14,7 +14,7 @@
 
 - 🔭 I'm currently working on [My-Portfolio](https://chiragdwivedi.vercel.app/)
 
-- 🌱 I'm currently learning **Web Dev**
+- 🌱 I'm currently learning **Web Dev & DSA**
 
 - 📫 How to reach me **chiragdwivediji@gmail.com**
 
