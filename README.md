@@ -1,7 +1,6 @@
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> नमस्ते (Namaste)🙏🏻, I'm Chirag Dwivedi! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 
-<p><em>Dev in Progress ⏳ | Impact in Mind
-</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Dev in Progress ⏳ | Impact in Mind </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chirag1724&label=Profile%20views&color=0e75b6&style=flat" alt="chirag1724" /> </p>
