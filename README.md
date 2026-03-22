@@ -47,6 +47,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chirag1724&show_icons=true&locale=en&layout=compact" alt="chirag1724"/></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chirag1724&show_icons=true&locale=en" alt="chirag1724" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chirag1724&show_icons=true&locale=en" alt="chirag1724"/></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chirag1724&" alt="chirag1724" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chirag1724&" alt="chirag1724"/></p>
