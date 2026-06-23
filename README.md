@@ -1,13 +1,13 @@
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> नमस्ते (Namaste)🙏🏻, I'm Chirag Dwivedi! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+
 <p><em>Dev in Progress ⏳ | Impact in Mind </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chirag1724&label=Profile%20views&color=0e75b6&style=flat" alt="chirag1724" /> </p>
 
 <p align="left"> <a href="https://twitter.com/dwivedi_ch58529" target="blank"><img src="https://img.shields.io/twitter/follow/dwivedi_ch58529?logo=twitter&style=for-the-badge" alt="dwivedi_ch58529" /></a> </p>
-
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">A little more about me...  
 
