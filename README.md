@@ -16,7 +16,7 @@
 - 💻 Exploring **Next.js, Node.js, Express, and Modern Web Technologies**
 - 👯 Open to collaborate on **Open Source Projects** and **Impactful Web Solutions**
 - 💬 Ask me about **JavaScript, React, Web Development, Problem Solving**
-- 🌐 Portfolio: **[chiragdwivedi.vercel.app](https://chiragdwivedi.vercel.app/)**
+- 🌐 Portfolio: **[chiragdwivedi.dev](https://www.chiragdwivedi.dev/)**
 - 📫 How to reach me **chiragdwivediji@gmail.com**
   
 <h3 align="left">Connect with me:</h3>
